@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto Final de Bioinformática: Análisis del Gen TP53
 
 Este proyecto analiza las mutaciones en el gen TP53 comparando secuencias de Homo sapiens y Gulo gulo (glotón). 
@@ -156,3 +157,6 @@ Este análisis proporciona una base para investigar más a fondo las mutaciones 
 4. Vousden, K. H. (2000). p53: death star. *Cell*, 103(5), 691-694. https://doi.org/10.1016/S0092-8674(00)00170-0
 5. Petitjean, A., et al. (2007). Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database. *Human Mutation*, 28(6), 622-629. https://doi.org/10.1002/humu.20495
 
+=======
+# Manejo y procesamiento de datos para la genómica de una línea celular de cáncer
+>>>>>>> 3e81b22fcf60951ea46f27bce89385dac259627f
