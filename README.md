@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Proyecto Final de Bioinformática: Análisis del Gen TP53
 
 Este proyecto analiza las mutaciones en el gen TP53 comparando secuencias de Homo sapiens y Gulo gulo (glotón). 
@@ -74,7 +74,7 @@ Este análisis identificó múltiples mutaciones entre la secuencia de referenci
 
 ### Distribución de Mutaciones en el Gen TP53
 
-![Distribución de Mutaciones en el Gen TP53](results/Distribución de Mutaciones en el Gen TP53 (Humano vs. Glotón).png)
+![Distribución de Mutaciones en el Gen TP53](results/Distribuci%C3%B3n%20de%20Mutaciones%20en%20el%20Gen%20TP53%20(Humano%20vs.%20Glot%C3%B3n).png)
 
 #### Análisis del Gráfico
 
@@ -87,7 +87,7 @@ Este gráfico muestra la distribución de las mutaciones a lo largo de la secuen
 
 ### Frecuencia de Tipos de Cambio en el Gen TP53
 
-![Frecuencia de Tipos de Cambio en el Gen TP53](results/Frecuencia de Tipos de Cambio en el Gen TP53 (Humano vs. Glotón).png)
+![Frecuencia de Tipos de Cambio en el Gen TP53](results/Frecuencia%20de%20Tipos%20de%20Cambio%20en%20el%20Gen%20TP53%20(Humano%20vs.%20Glot%C3%B3n).png)
 
 #### Análisis del Gráfico
 
@@ -115,14 +115,13 @@ Se realizó una alineación de secuencias entre el gen TP53 humano y el gen TP53
 
 ### Detalle de la Alineación
 
-![Detalle de la Alineación](results/Alineación de Secuencias del Gen TP53 (Humano vs. Glotón).png)
+![Detalle de la Alineación](results/Alineaci%C3%B3n%20de%20Secuencias%20del%20Gen%20TP53%20(Humano%20vs.%20Glot%C3%B3n).png)
 
 ### Análisis del Resultado
 
 La alineación muestra una alta similitud entre las dos secuencias, con un 90.43% de nucleótidos idénticos. Sin embargo, solo el 5% de la secuencia de consulta está cubierta en la alineación, lo que sugiere que podría haber diferencias significativas en otras regiones del gen no incluidas en esta alineación.
 
 ### Interpretación del Alineamiento
-
 - **Similitudes**:
   - La mayoría de los nucleótidos en esta región son idénticos, lo que indica que estas secuencias han conservado su estructura a lo largo de la evolución.
   - Las posiciones alineadas muestran una alta similitud (90%), reflejando la conservación de secuencias críticas para la función del gen TP53.
@@ -157,6 +156,4 @@ Este análisis proporciona una base para investigar más a fondo las mutaciones 
 4. Vousden, K. H. (2000). p53: death star. *Cell*, 103(5), 691-694. https://doi.org/10.1016/S0092-8674(00)00170-0
 5. Petitjean, A., et al. (2007). Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database. *Human Mutation*, 28(6), 622-629. https://doi.org/10.1002/humu.20495
 
-=======
-# Manejo y procesamiento de datos para la genómica de una línea celular de cáncer
->>>>>>> 3e81b22fcf60951ea46f27bce89385dac259627f
+
