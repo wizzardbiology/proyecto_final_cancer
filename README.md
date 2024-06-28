@@ -50,7 +50,7 @@ El objetivo de este estudio es analizar las mutaciones en el gen TP53 comparando
 
 ### Recopilación de Secuencias
 
-Las secuencias del gen TP53 fueron obtenidas de bases de datos genómicas. La secuencia de referencia humana fue descargada de [NCBI](https://www.ncbi.nlm.nih.gov/), mientras que la secuencia del glotón fue obtenida a través de BLAST.
+Las secuencias del gen TP53 fueron obtenidas de bases de datos genómicas. La secuencia de referencia humana del glotón fueron descargadas de [NCBI](https://www.ncbi.nlm.nih.gov/).
 
 ### Análisis de Mutaciones
 
